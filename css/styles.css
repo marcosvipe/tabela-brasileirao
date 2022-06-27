@@ -1,0 +1,135 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
+
+table, tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    border-color: #DDDDDD; 
+    margin: auto;
+}
+
+table {
+    width: 530px;
+}
+
+td {
+    padding: 4.8px;
+}
+
+#titulos {
+    font-weight: bold;
+    text-align: center;
+    font-size: 13px;
+    color: #999999;
+}
+
+#posicaolib {
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+    color: #003366;
+}
+
+#posicaoprelib {
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+    color: #1398BE;
+}
+
+#posicaosul {
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+    color: #DE9800;
+}
+
+#posicaosemclass {
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+    color: #CCCCCC;
+}
+
+#posicaoreb {
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+    color: #C91B04;
+}
+
+#nomes {
+    font-weight: bold;
+    text-align: left;
+    font-size: 14px;
+    color: #666666;
+}
+
+#pontos{
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+    color: black;
+    background: #F7F7F7;
+}
+
+#rodape {
+    font-size: 10px;
+    color: #8f8f8f;
+    text-align: left;
+    border-top: none;
+}
+
+.rodape2 {
+    font-weight: bold;
+    font-size: 10px;
+    color: #555555;
+    text-indent: 8px;
+    margin-top: 4px;
+}
+
+#backg {
+    background: #F7F7F7;
+}
+
+#linha {
+    border-top: 2px solid black;
+    border-color: #CCCCCC;
+}
+
+.color1 { 
+   color: #003366;
+   margin-left: 8px;
+}
+
+.color2 { 
+   color: #1398BE;
+   margin-left: 8px;
+}
+
+.color3 { 
+   color: #DE9800;
+   margin-left: 8px;
+}
+
+.color4 { 
+   color: #C91B04;
+   margin-left: 8px;
+}
+
+#largura {
+    width: 30px;
+}
+
+#aprov {
+    width: 30px;
+}
